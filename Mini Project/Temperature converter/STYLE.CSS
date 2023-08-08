@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin:0;
+}
+
+        body{
+			padding:50px 100px;
+		}
+		.heading{
+			font-size:30px;
+			font-weight: bold;
+			background-color: #DC143C ;
+			border-radius: 10px;
+			display:inline-block;
+			padding:25px;
+			text-align: center;
+			color:white;
+			clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%);
+		    
+		}
+		#container{
+			margin:20px;
+			text-align: center;
+			background-color: #7FFFD4;
+			padding: 80px;
+		}
+		.inp{
+			padding:5px 10px ;
+			margin:10px;
+			font-size: 20px;
+			text-align: center;
+
+		}
+        .input{
+	       display: inline-block;
+        }
+
+		label{
+			font-weight: bold;
+			font-size: 25px;
+			color:black;
+		}
+  
